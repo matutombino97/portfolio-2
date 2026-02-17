@@ -28,7 +28,7 @@ El foco fue la performance y la accesibilidad universal (SEO), evitando la sobre
 ## Cómo ver el proyecto
 
 Puedes visitar el despliegue en vivo aquí:
-**[LINK_DE_TU_GITHUB_PAGES_AQUI]**
+**https://matutombino97.github.io/portfolio-2/**
 
 ## Contacto
 
@@ -40,3 +40,4 @@ Si te interesa saber más sobre mi perfil técnico o contratar mis servicios:
 
 ---
 *Desarrollado con 💙 por Matias en Mendoza, Argentina.*
+
